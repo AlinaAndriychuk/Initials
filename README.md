@@ -1,6 +1,6 @@
 # Initials
 
-[Link](https://github.com/AlinaAndriychuk/Initials)
+[Link](https://initials.netlify.app/)
 
 #How to use
 
