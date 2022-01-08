@@ -1,5 +1,6 @@
 # Initials
 
+Home page 
 [Link](https://initials.netlify.app/)
 
 #How to use
